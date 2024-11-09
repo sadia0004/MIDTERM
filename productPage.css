@@ -65,3 +65,29 @@ img{
     background-color: #ff4500; /* Darken color on hover */
 }
 
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(2, 21, 21);
+}
+
+.inner {
+    height: 100%;
+    background-color:rgb(254, 237, 228) ;
+    width: 100%; 
+    margin: 30px;
+    padding: 10px;
+
+}
+
+img{
+    max-width: 550px;
+    
+}
+#img1{
+    max-width: 100px;
+}
+
+ .outer {
+    display: flex;
+} 
