@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(249, 246, 247);
+}
+
+header {
+    background-color: #f0ad73;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #050a49;  
+    box-shadow: 10px 8px 5px rgb(122, 98, 172);
+    padding: 10px ; 
+}
+
+
+.navbar a {
+    text-decoration: none;
+    color: white; 
+    padding: 10px ; 
+    font-size: 18px; 
+    font-family: Arial, sans-serif;
+}
+
+.navbar a:hover {
+    background-color: #1d92cd; 
+    border-radius:5%
+}
+
+.outter{
+    display: flex;
+}
+.inner{
+    background-color: rgb(245, 236, 218);
+    width: 500px;
+    height: 500px;
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 30px;
+    margin-right: 50px;
+  
+}
