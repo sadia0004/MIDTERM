@@ -33,7 +33,7 @@ header {
     display: flex;
 }
 .inner{
-    background-color: rgb(245, 236, 218);
+    background-color: rgb(246, 253, 252);
     width: 500px;
     height: 500px;
     padding: 20px;
@@ -41,4 +41,28 @@ header {
     margin-left: 30px;
     margin-right: 50px;
   
+}
+p{  
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right:50px;
+    font-size: 20px;
+    font-family: cursive;
+    color: rgb(17, 17, 116);
+}
+
+#salepic{
+    width: 400px;
+    height:250px;
+}
+
+img{
+    width: 400px;
+    height:600px;
+} 
+
+#newid{
+    width:60px;
+    height:40px
 }
