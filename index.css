@@ -9,6 +9,11 @@ header {
     text-align: center;
 }
 
+main {
+    padding: 20px;
+    min-height: 100vh; 
+}
+
 .navbar {
     background-color: #050a49;  
     box-shadow: 10px 8px 5px rgb(122, 98, 172);
@@ -65,4 +70,13 @@ img{
 #newid{
     width:60px;
     height:40px
+}
+footer {
+    background-color: #0e0341;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
